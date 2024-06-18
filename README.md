@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a former chef turned Software Developer passionate about Software Engineering, AI/ML Developing. I love creating, learning, and sharing knowledge.
 
 
-- 📫 How to reach me: [songhn@gmail.com](mailto:songhn@gmail.com)
+- 📫 How to reach me: [songhn@uci.edu](mailto:songhn@uci.edu)
 
 ## 🚀 Skills and Tools
 
