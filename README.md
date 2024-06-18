@@ -1,7 +1,8 @@
 # 👋 Hello there! I'm Nick Song
 
 Welcome to my GitHub profile! I'm a former chef turned Software Developer passionate about Software Engineering, AI/ML Developing. I love creating, learning, and sharing knowledge.
-
+After 8+ years away from the classroom, I decided to go back and pursue an education in computer science. Specifically, I focused on studying AI, visual computing, and software engineering. 
+I hope to leverage my analytical skills and creativity to develop and integrate cutting-edge technology to optimize food production, reduce waste, and increase productivity for food businesses. I thrive in high-pressure environments, believe in the importance of teamwork, and have a keen eye for detail and quality.
 
 - 📫 How to reach me: [songhn@uci.edu](mailto:songhn@uci.edu)
 
